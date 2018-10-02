@@ -1,6 +1,6 @@
 # This is my homepage
 ## By Bobby Wilson
-### Check my Bio[boomer](https://github.com/BoomerSoonerNumberOne/BIO.md)
+### Check my Bio [boomer](https://github.com/BoomerSoonerNumberOne/BIO.md)
 I am a Sooners Fan
 
 ![Sooner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_SIrLC5sLGbvQSl1aq1gLlU9Ai5WfiHcLq2BIaBtgxVle5pANg)

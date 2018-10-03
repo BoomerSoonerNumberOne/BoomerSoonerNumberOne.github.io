@@ -1,4 +1,3 @@
-![HOME](https://github.com/BoomerSoonerNumberOne)
 # Computer Coding
 ## By Bobby Wilson
 
